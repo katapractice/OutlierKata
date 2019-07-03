@@ -10,7 +10,10 @@ public class Controller
 		
 	}
 	
-	
+	/*
+	 * While I don't think this is the best solution to this kata I would argue that this is the most
+	 * readable of the options I saw 
+	 */
 	
 	private int find(int[] integers)
 	{
